@@ -12,4 +12,5 @@ The run_analysis.R script does the following:
 8. Apply mean via dcast
 9. Write tidy_dataset.txt file
 
+
 See the run_analysis.R file in this GitHub repo for more details.
