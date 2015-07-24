@@ -13,4 +13,11 @@ The run_analysis.R script does the following:
 8.  Apply mean via dcast
 9.  Write tidy_dataset.txt file
 
+To view the tidy_dataset.txt file in R, download the file from this GitHub repo into your working directory and run the following code:
+
+data <- read.table("tidy_dataset.txt", header = TRUE)
+
+View(data)
+
+
 See the run_analysis.R file in this GitHub repo for more details.
